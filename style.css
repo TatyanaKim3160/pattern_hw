@@ -1,0 +1,13 @@
+body {background-color:red;
+
+}
+.class{heigth:100px;
+width:100px
+}
+
+.button1{
+height:400px;
+width:600px;
+background-image:url(https://habrastorage.org/r/w1560/getpro/habr/upload_files/537/888/4e8/5378884e80d19c991c252d9abafe66e4.jpg);
+background-repeat:no-repeat;
+}
